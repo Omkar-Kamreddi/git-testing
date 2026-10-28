@@ -8,6 +8,7 @@ const App = () => {
   return (
     <ThemeProvider>
       //Omkar Kamreddi
+      <title>Developer Portfolio</title>
       <div className="App">
         <Header />
         <AppRoutes />
