@@ -7,6 +7,7 @@ import { ThemeProvider } from "./components/Theme";
 const App = () => {
   return (
     <ThemeProvider>
+      //Omkar Kamreddi
       <div className="App">
         <Header />
         <AppRoutes />
